@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace _5125Assignment1.Controllers
+namespace CAssignment1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

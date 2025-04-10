@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tor Hulugh\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Tor Hulugh\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Tor Hulugh\\source\\repos\\WebApplication1\\WebApplication1\\CAssignment1.csproj",
+      "projectName": "CAssignment1",
+      "projectPath": "C:\\Users\\Tor Hulugh\\source\\repos\\WebApplication1\\WebApplication1\\CAssignment1.csproj",
       "packagesPath": "C:\\Users\\Tor Hulugh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Tor Hulugh\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
